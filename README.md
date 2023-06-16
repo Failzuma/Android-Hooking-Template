@@ -1,1 +1,1 @@
-#Hooking Template
+# Deprecated
